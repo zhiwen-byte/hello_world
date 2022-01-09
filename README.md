@@ -5,3 +5,4 @@ init hello_world
 --amend
 -yasuolis
 -feature-C
+-feature-D
